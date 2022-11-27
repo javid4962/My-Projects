@@ -4,7 +4,7 @@ from tkinter import font
 root = Tk()
 root.title("Simple calculator")
 root.configure(bg='black')
-root.geometry('350x460')
+root.geometry('345x470')
 
 
 e = Entry(root,width=30, borderwidth=25,bg="black",fg="white",font=20)
@@ -75,7 +75,7 @@ button_mul = Button(root, text="*",padx=29,pady=20,font=1 ,border=5,bg="#1a2327"
 button_div = Button(root, text="/",padx=29,pady=20,font=1 ,border=5,bg="#1a2327",fg="white", command=button_div)
 button_equal = Button(root, text="=",padx=29,pady=20,font=1 ,bg="#f50000",border=5,  command=button_equal)
 button_clear = Button(root, text="clear",padx=18,pady=20,font=1 ,border=5,bg="#1a2327",fg="white", command=button_clear)
-button_dot = Button(root, text=".",padx=31,pady=20,font=1 ,border=5,bg="#1a2327",fg="white", command=lambda: button_click('.'))
+button_dot = Button(root, text=".",padx=32,pady=20,font=1 ,border=5,bg="#1a2327",fg="white", command=lambda: button_click('.'))
 
 
 button_1.grid(row=3, column=0)
