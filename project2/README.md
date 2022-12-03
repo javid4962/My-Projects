@@ -5,7 +5,7 @@
 Here I can create A shopping web Which Can Order Different brands and trendy offers on cloths are Available in this website called 'cara'.
 
 
-My Website link is: https://javid-4962.github.io/finalFRTpro/
+My Website link is: https://javid4962.github.io/My-Own-Projects/project2/
 
 
 ## HOME
