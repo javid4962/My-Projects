@@ -5,8 +5,6 @@
 Here I can create A shopping web Which Can Order Different brands and trendy offers on cloths are Available in this website called 'cara'.
 
 
-My Website link is: https://javid4962.github.io/My-Own-Projects/project2/
-
 
 ## HOME
 ![home1](https://user-images.githubusercontent.com/111061547/198042161-f150df51-9dad-4e7a-9f41-5174665df9cb.jpg)
